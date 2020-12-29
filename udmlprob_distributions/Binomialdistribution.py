@@ -11,11 +11,7 @@ class Binomial(Distribution):
         stdev (float) representing the standard deviation of the distribution
         data_list (list of floats) a list of floats to be extracted from the data file
         p (float) representing the probability of an event occurring
-        n (int) number of trials
-    
-    
-    TODO: Fill out all functions below
-            
+        n (int) number of trials            
     """
     
     
